@@ -1,4 +1,4 @@
-package "github.com/kanzetu/go-utils/x"
+package "x"
 
 import (
 	"strconv"

@@ -1,4 +1,4 @@
-package "github.com/kanzetu/go-utils/format"
+package "format"
 
 import (
 		"time"
