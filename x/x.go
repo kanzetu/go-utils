@@ -10,7 +10,7 @@ import (
 	"encoding/json"
 	"os"
 	
-	"github.com/kanzetu/go-utils/format"
+	"github.com/kanztu/go-utils/format"
 )
 
 func Stoi(s string) int{
