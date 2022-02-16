@@ -1,3 +1,3 @@
-module github.com/kanzetu/go-utils/format
+module github.com/kanztu/go-utils/format
 
 go 1.16
