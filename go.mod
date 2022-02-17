@@ -1,3 +1,3 @@
-module github.com/kanzetu/go-utils
+module github.com/kanztu/go-utils
 
 go 1.16
